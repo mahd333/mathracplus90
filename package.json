@@ -1,7 +1,8 @@
 {
   "name": "mathracplus90",
   "version": "1.0.0",
-  "description": "Math homework utility site",
+  "description": "Math Homework Review Tool",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
